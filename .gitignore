@@ -1,0 +1,180 @@
+# =========================
+
+# STM32 build folders
+
+# =========================
+
+**/Debug/
+**/Release/
+build/
+out/
+
+# =========================
+
+# Compiled objects & binaries
+
+# =========================
+
+*.o
+*.obj
+*.elf
+*.axf
+*.bin
+*.hex
+*.map
+*.d
+*.su
+*.lst
+
+# =========================# =========================
+
+# STM32 build folders
+
+# =========================
+
+**/Debug/
+**/Release/
+build/
+out/
+
+# =========================
+
+# Compiled objects & binaries
+
+# =========================
+
+*.o
+*.obj
+*.elf
+*.axf
+*.bin
+*.hex
+*.map
+*.d
+*.su
+*.lst
+*.cyclo
+*.mk
+
+# =========================
+
+# Auto-generated build files
+
+# =========================
+
+*.mk
+makefile
+sources.mk
+objects.list
+
+# =========================
+
+# STM32CubeIDE workspace & metadata
+
+# =========================
+
+.metadata/
+.settings/
+.project
+.cproject
+rtos_workspace/
+
+# =========================
+
+# Debug configs
+
+# =========================
+
+*.launch
+
+# =========================
+
+# Logs and temp files
+
+# =========================
+
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# =========================
+
+# OS files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# Coverage / profiling
+
+# =========================
+
+*.gcda
+*.gcno
+*.gcov
+
+
+# Auto-generated build files
+
+# =========================
+
+*.mk
+makefile
+sources.mk
+objects.list
+
+# =========================
+
+# STM32CubeIDE workspace & metadata
+
+# =========================
+
+.metadata/
+.settings/
+.project
+.cproject
+rtos_workspace/
+
+# =========================
+
+# Debug configs
+
+# =========================
+
+*.launch
+
+# =========================
+
+# Logs and temp files
+
+# =========================
+
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# =========================
+
+# OS files
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# Coverage / profiling
+
+# =========================
+
+*.gcda
+*.gcno
+*.gcov

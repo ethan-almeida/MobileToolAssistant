@@ -1,0 +1,60 @@
+
+.project
+.cproject
+.settings/
+.mxproject
+
+# Launch/debug configs
+*.launch
+
+# Workspace (VERY IMPORTANT)
+workspace/
+.metadata/
+
+
+Debug/
+Release/
+*/Debug/
+*/Release/
+
+# Object / build files
+*.o
+*.d
+*.su
+*.cyclo
+*.map
+*.elf
+*.list
+
+# Make system generated
+*.mk
+makefile
+objects.list
+objects.mk
+sources.mk
+subdir.mk
+
+
+# ===============================
+*.log
+
+
+*.tmp
+*.bak
+*.swp
+*.swo
+
+
+.DS_Store
+Thumbs.db
+
+
+!Core/
+!Drivers/
+!Middlewares/
+!USB_HOST/
+!*.ioc
+!*.ld
+!*.h
+!*.c
+!*.s
