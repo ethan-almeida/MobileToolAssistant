@@ -53,7 +53,7 @@ MobileToolAssistant
 - Max following speed: 6 km/h
 
 ## Overall Block Diagram 
-<img width="604" height="350" alt="Screenshot_1" src="https://github.com/user-attachments/assets/1afb5947-a75a-4c29-9746-3b261ed1421b" />
+<!-- <img width="604" height="350" alt="Screenshot_1" src="https://github.com/user-attachments/assets/1afb5947-a75a-4c29-9746-3b261ed1421b" /> -->
 
 
 ## Documentation
